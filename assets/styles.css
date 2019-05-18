@@ -1,3 +1,11 @@
 .niceBlueBackground {
     background-color: #4aaaa5;
 }
+
+body {
+    background-image: url("./images/interlaced.png");
+}
+
+.whiteBack {
+    background-color: white;
+}
