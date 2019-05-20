@@ -6,6 +6,13 @@ body {
     background-image: url("./images/interlaced.png");
 }
 
+.testing {
+    height: 100%;
+}
 .whiteBack {
     background-color: white;
+}
+
+.aboutMe {
+    color: #4aaaa5;
 }
