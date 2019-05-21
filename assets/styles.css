@@ -44,3 +44,13 @@ body {
     height: 170px;
     width: 250px;
 }
+
+.logoPositions {
+    height: 40px;;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    position: relative;
+    bottom: 50px;   
+    text-align: center;
+    padding-top: 7px; 
+}
