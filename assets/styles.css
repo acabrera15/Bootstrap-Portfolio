@@ -39,3 +39,8 @@ body {
     border-color: #4aaaa5 !important;
     height: 70px
 }
+
+.portfolioPictures {
+    height: 170px;
+    width: 250px;
+}
